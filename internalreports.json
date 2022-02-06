@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "teacher": "Mishan Khatri",
+        "class": 10,
+        "section": "A",
+        "subject": "DBMS",
+        "student": "Prabin Gautam",
+        "rollNo": 29,
+        "marks": 45
+    },
+    {
+        "id": 2,
+        "teacher": "Paras Panta",
+        "class": 10,
+        "section": "A",
+        "subject": "Computer",
+        "student": "Kushal Pangeni",
+        "rollNo": 21,
+        "marks": 45
+    }
+]

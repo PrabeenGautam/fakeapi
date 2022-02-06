@@ -1,0 +1,242 @@
+[
+    {
+        "timetableId": 1,
+        "day": "Sunday",
+        "startTime": "1:05",
+        "endTime": "1:50",
+        "subject": "DBMS",
+        "teacher": "Mishan Khatri",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 2,
+        "day": "Monday",
+        "startTime": "10:05",
+        "endTime": "10:50",
+        "subject": "Computer",
+        "teacher": "Kushal Pangeni",
+        "class": 12,
+        "section": "B"
+    },
+    {
+        "timetableId": 3,
+        "day": "Tuesday",
+        "startTime": "1:05",
+        "endTime": "1:50",
+        "subject": "Economics",
+        "teacher": "Mishan Khatri",
+        "class": 11,
+        "section": "B"
+    },
+    {
+        "timetableId": 4,
+        "day": "Wednesday",
+        "startTime": "12:05",
+        "endTime": "12:50",
+        "subject": "Computer",
+        "teacher": "Paras Panta",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 5,
+        "day": "Thursday",
+        "startTime": "12:05",
+        "endTime": "12:50",
+        "subject": "Science",
+        "teacher": "Prabin Gautam",
+        "class": 9,
+        "section": "B"
+    },
+    {
+        "timetableId": 6,
+        "day": "Friday",
+        "startTime": "10:05",
+        "endTime": "10:50",
+        "subject": "DBMS",
+        "teacher": "Kushal Pangeni",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 7,
+        "day": "Sunday",
+        "startTime": "12:05",
+        "endTime": "12:50",
+        "subject": "Social",
+        "teacher": "Prabin Gautam",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 8,
+        "day": "Monday",
+        "startTime": "11:05",
+        "endTime": "11:50",
+        "subject": "Science",
+        "teacher": "Paras Panta",
+        "class": 11,
+        "section": "C"
+    },
+    {
+        "timetableId": 9,
+        "day": "Tuesday",
+        "startTime": "12:05",
+        "endTime": "12:50",
+        "subject": "Economics",
+        "teacher": "Mishan Khatri",
+        "class": 9,
+        "section": "A"
+    },
+    {
+        "timetableId": 10,
+        "day": "Wednesday",
+        "startTime": "11:05",
+        "endTime": "11:50",
+        "subject": "Nepali",
+        "teacher": "Mishan Khatri",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 11,
+        "day": "Thursday",
+        "startTime": "1:05",
+        "endTime": "1:50",
+        "subject": "Social",
+        "teacher": "Paras Panta",
+        "class": 10,
+        "section": "B"
+    },
+    {
+        "timetableId": 12,
+        "day": "Friday",
+        "startTime": "11:05",
+        "endTime": "11:50",
+        "subject": "Social",
+        "teacher": "Kushal Pangeni",
+        "class": 11,
+        "section": "C"
+    },
+    {
+        "timetableId": 13,
+        "day": "Sunday",
+        "startTime": "11:05",
+        "endTime": "11:50",
+        "subject": "DBMS",
+        "teacher": "Prabin Gautam",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 14,
+        "day": "Monday",
+        "startTime": "12:05",
+        "endTime": "12:50",
+        "subject": "DBMS",
+        "teacher": "Mishan Khatri",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 15,
+        "day": "Tuesday",
+        "startTime": "11:05",
+        "endTime": "11:50",
+        "subject": "Computer",
+        "teacher": "Kushal Pangeni",
+        "class": 12,
+        "section": "B"
+    },
+    {
+        "timetableId": 16,
+        "day": "Wednesday",
+        "startTime": "10:05",
+        "endTime": "10:50",
+        "subject": "Economics",
+        "teacher": "Mishan Khatri",
+        "class": 11,
+        "section": "B"
+    },
+    {
+        "timetableId": 17,
+        "day": "Thursday",
+        "startTime": "10:05",
+        "endTime": "10:50",
+        "subject": "Computer",
+        "teacher": "Paras Panta",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 18,
+        "day": "Friday",
+        "startTime": "1:05",
+        "endTime": "1:50",
+        "subject": "Science",
+        "teacher": "Prabin Gautam",
+        "class": 9,
+        "section": "B"
+    },
+    {
+        "timetableId": 19,
+        "day": "Sunday",
+        "startTime": "10:05",
+        "endTime": "10:50",
+        "subject": "DBMS",
+        "teacher": "Kushal Pangeni",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 20,
+        "day": "Monday",
+        "startTime": "1:05",
+        "endTime": "1:50",
+        "subject": "Social",
+        "teacher": "Prabin Gautam",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 21,
+        "day": "Tuesday",
+        "startTime": "10:05",
+        "endTime": "10:50",
+        "subject": "Science",
+        "teacher": "Paras Panta",
+        "class": 11,
+        "section": "C"
+    },
+    {
+        "timetableId": 22,
+        "day": "Wednesday",
+        "startTime": "1:05",
+        "endTime": "1:50",
+        "subject": "Economics",
+        "teacher": "Mishan Khatri",
+        "class": 9,
+        "section": "A"
+    },
+    {
+        "timetableId": 23,
+        "day": "Thursday",
+        "startTime": "11:05",
+        "endTime": "11:50",
+        "subject": "Nepali",
+        "teacher": "Mishan Khatri",
+        "class": 10,
+        "section": "A"
+    },
+    {
+        "timetableId": 24,
+        "day": "Friday",
+        "startTime": "12:05",
+        "endTime": "12:50",
+        "subject": "Social",
+        "teacher": "Paras Panta",
+        "class": 10,
+        "section": "B"
+    }
+]

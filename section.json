@@ -1,0 +1,57 @@
+[
+    {
+        "sectionId": 1,
+        "class": 12,
+        "sectionName": "A"
+    },
+    {
+        "sectionId": 2,
+        "class": 11,
+        "sectionName": "A"
+    },
+    {
+        "sectionId": 3,
+        "class": 8,
+        "sectionName": "A"
+    },
+    {
+        "sectionId": 4,
+        "class": 9,
+        "sectionName": "A"
+    },
+    {
+        "sectionId": 5,
+        "class": 10,
+        "sectionName": "A"
+    },
+    {
+        "sectionId": 6,
+        "class": 12,
+        "sectionName": "B"
+    },
+    {
+        "sectionId": 7,
+        "class": 10,
+        "sectionName": "B"
+    },
+    {
+        "sectionId": 8,
+        "class": 12,
+        "sectionName": "C"
+    },
+    {
+        "sectionId": 9,
+        "class": 11,
+        "sectionName": "B"
+    },
+    {
+        "sectionId": 10,
+        "class": 9,
+        "sectionName": "B"
+    },
+    {
+        "sectionId": 11,
+        "class": 11,
+        "sectionName": "C"
+    }
+]

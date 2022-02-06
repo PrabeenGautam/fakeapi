@@ -1,0 +1,106 @@
+[
+    {
+        "subjectId": 1,
+        "subjectName": "DBMS",
+        "subjectCode": "SCDBMS",
+        "class": 10,
+        "section": "A",
+        "description": "Subject: DBMS"
+    },
+    {
+        "subjectId": 2,
+        "subjectName": "Computer",
+        "subjectCode": "SCComputer",
+        "class": 12,
+        "section": "B",
+        "description": "Subject: Computer"
+    },
+    {
+        "subjectId": 3,
+        "subjectName": "Economics",
+        "subjectCode": "SCEconomics",
+        "class": 11,
+        "section": "B",
+        "description": "Subject: Economics"
+    },
+    {
+        "subjectId": 4,
+        "subjectName": "Computer",
+        "subjectCode": "SCComputer",
+        "class": 10,
+        "section": "A",
+        "description": "Subject: Computer"
+    },
+    {
+        "subjectId": 5,
+        "subjectName": "Science",
+        "subjectCode": "SCScience",
+        "class": 9,
+        "section": "B",
+        "description": "Subject: Science"
+    },
+    {
+        "subjectId": 6,
+        "subjectName": "DBMS",
+        "subjectCode": "SCDBMS",
+        "class": 10,
+        "section": "A",
+        "description": "Subject: DBMS"
+    },
+    {
+        "subjectId": 7,
+        "subjectName": "Social",
+        "subjectCode": "SCSocial",
+        "class": 10,
+        "section": "A",
+        "description": "Subject: Social"
+    },
+    {
+        "subjectId": 8,
+        "subjectName": "Science",
+        "subjectCode": "SCScience",
+        "class": 11,
+        "section": "C",
+        "description": "Subject: Science"
+    },
+    {
+        "subjectId": 9,
+        "subjectName": "Economics",
+        "subjectCode": "SCEconomics",
+        "class": 9,
+        "section": "A",
+        "description": "Subject: Economics"
+    },
+    {
+        "subjectId": 10,
+        "subjectName": "Nepali",
+        "subjectCode": "SCNepali",
+        "class": 10,
+        "section": "A",
+        "description": "Subject: Nepali"
+    },
+    {
+        "subjectId": 11,
+        "subjectName": "Social",
+        "subjectCode": "SCSocial",
+        "class": 10,
+        "section": "B",
+        "description": "Subject: Social"
+    },
+    {
+        "subjectId": 12,
+        "subjectName": "Social",
+        "subjectCode": "SCSocial",
+        "class": 11,
+        "section": "C",
+        "description": "Subject: Social"
+    },
+    {
+        "subjectId": 13,
+        "subjectName": "DBMS",
+        "subjectCode": "SCDBMS",
+        "class": 10,
+        "section": "A",
+        "description": "Subject: DBMS"
+    }
+]

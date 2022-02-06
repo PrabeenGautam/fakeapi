@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "class": 10,
+        "section": "A",
+        "subject": "DBMS",
+        "description": "lecture notes of DBMS by mishan khatri"
+    },
+    {
+        "id": 2,
+        "class": 10,
+        "section": "A",
+        "subject": "Computer",
+        "description": "lecture notes of DBMS by paras panta"
+    }
+]

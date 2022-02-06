@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "assignmentId": 1,
+        "studentName": "Prabin Gautam",
+        "roll": 29,
+        "status": "Submitted",
+        "submittedDate": "2022-02-06T00:00:00.000Z",
+        "submittedTime": "10:40",
+        "remarks": "Well Done"
+    },
+    {
+        "id": 2,
+        "assignmentId": 2,
+        "studentName": "Kushal Pangeni",
+        "roll": 21,
+        "status": "Submitted",
+        "submittedDate": "2022-02-05T00:00:00.000Z",
+        "submittedTime": "1899-12-30T11:05:00.000Z",
+        "remarks": "Well Done"
+    },
+    {
+        "id": 3,
+        "assignmentId": 3,
+        "studentName": "Mishan Khatri",
+        "roll": 22,
+        "status": "Pending"
+    },
+    {
+        "id": 4,
+        "assignmentId": 4,
+        "studentName": "Paras Panta",
+        "roll": 28,
+        "status": "Pending"
+    }
+]

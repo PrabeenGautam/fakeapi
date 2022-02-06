@@ -1,0 +1,309 @@
+[
+    {
+        "id": 1,
+        "type": "Adminstration",
+        "for": "All",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-06",
+        "createdBy": "Teacher",
+        "creatorid": 1
+    },
+    {
+        "id": 2,
+        "type": "Other",
+        "for": "Student",
+        "class": 12,
+        "section": "A",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-06",
+        "createdBy": "Teacher",
+        "creatorid": 2
+    },
+    {
+        "id": 3,
+        "type": "Adminstration",
+        "for": "Teacher",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-06",
+        "createdBy": "Admin",
+        "creatorid": 3
+    },
+    {
+        "id": 4,
+        "type": "Admission",
+        "for": "Student",
+        "class": 11,
+        "section": "A",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-06",
+        "createdBy": "Admin",
+        "creatorid": 4
+    },
+    {
+        "id": 5,
+        "type": "Admission",
+        "for": "Student",
+        "class": 12,
+        "section": "B",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-07",
+        "createdBy": "Teacher",
+        "creatorid": 5
+    },
+    {
+        "id": 6,
+        "type": "Admission",
+        "for": "Student",
+        "class": 11,
+        "section": "B",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-07",
+        "createdBy": "Admin",
+        "creatorid": 6
+    },
+    {
+        "id": 7,
+        "type": "Other",
+        "for": "Teacher",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-07",
+        "createdBy": "Admin",
+        "creatorid": 7
+    },
+    {
+        "id": 8,
+        "type": "Adminstration",
+        "for": "All",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-07",
+        "createdBy": "Teacher",
+        "creatorid": 8
+    },
+    {
+        "id": 9,
+        "type": "Adminstration",
+        "for": "All",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-08",
+        "createdBy": "Admin",
+        "creatorid": 9
+    },
+    {
+        "id": 10,
+        "type": "Academic",
+        "for": "Student",
+        "class": 12,
+        "section": "C",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-08",
+        "createdBy": "Admin",
+        "creatorid": 10
+    },
+    {
+        "id": 11,
+        "type": "Adminstration",
+        "for": "Teacher",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-08",
+        "createdBy": "Teacher",
+        "creatorid": 11
+    },
+    {
+        "id": 12,
+        "type": "Academic",
+        "for": "Student",
+        "class": 12,
+        "section": "A",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-08",
+        "createdBy": "Admin",
+        "creatorid": 12
+    },
+    {
+        "id": 13,
+        "type": "Admission",
+        "for": "Student",
+        "class": 11,
+        "section": "C",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-09",
+        "createdBy": "Admin",
+        "creatorid": 13
+    },
+    {
+        "id": 14,
+        "type": "Other",
+        "for": "All",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-09",
+        "createdBy": "Teacher",
+        "creatorid": 14
+    },
+    {
+        "id": 15,
+        "type": "Academic",
+        "for": "Student",
+        "class": 12,
+        "section": "A",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-09",
+        "createdBy": "Teacher",
+        "creatorid": 15
+    },
+    {
+        "id": 16,
+        "type": "Academic",
+        "for": "Student",
+        "class": 12,
+        "section": "B",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-09",
+        "createdBy": "Teacher",
+        "creatorid": 16
+    },
+    {
+        "id": 17,
+        "type": "Academic",
+        "for": "Teacher",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-10",
+        "createdBy": "Teacher",
+        "creatorid": 17
+    },
+    {
+        "id": 18,
+        "type": "Adminstration",
+        "for": "Student",
+        "class": 12,
+        "section": "C",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-10",
+        "createdBy": "Teacher",
+        "creatorid": 18
+    },
+    {
+        "id": 19,
+        "type": "Adminstration",
+        "for": "All",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-10",
+        "createdBy": "Teacher",
+        "creatorid": 19
+    },
+    {
+        "id": 20,
+        "type": "Other",
+        "for": "All",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-10",
+        "createdBy": "Admin",
+        "creatorid": 20
+    },
+    {
+        "id": 21,
+        "type": "Other",
+        "for": "All",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-11",
+        "createdBy": "Admin",
+        "creatorid": 21
+    },
+    {
+        "id": 22,
+        "type": "Other",
+        "for": "All",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-11",
+        "createdBy": "Teacher",
+        "creatorid": 22
+    },
+    {
+        "id": 23,
+        "type": "Admission",
+        "for": "Student",
+        "class": 10,
+        "section": "A",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-11",
+        "createdBy": "Teacher",
+        "creatorid": 23
+    },
+    {
+        "id": 24,
+        "type": "Other",
+        "for": "Student",
+        "class": 10,
+        "section": "B",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-11",
+        "createdBy": "Teacher",
+        "creatorid": 24
+    },
+    {
+        "id": 25,
+        "type": "Other",
+        "for": "Teacher",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-12",
+        "createdBy": "Admin",
+        "creatorid": 25
+    },
+    {
+        "id": 26,
+        "type": "Adminstration",
+        "for": "Teacher",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-12",
+        "createdBy": "Teacher",
+        "creatorid": 26
+    },
+    {
+        "id": 27,
+        "type": "Other",
+        "for": "All",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-12",
+        "createdBy": "Teacher",
+        "creatorid": 27
+    },
+    {
+        "id": 28,
+        "type": "Academic",
+        "for": "All",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-12",
+        "createdBy": "Admin",
+        "creatorid": 28
+    },
+    {
+        "id": 29,
+        "type": "Admission",
+        "for": "Student",
+        "class": 11,
+        "section": "A",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-13",
+        "createdBy": "Teacher",
+        "creatorid": 29
+    },
+    {
+        "id": 30,
+        "type": "Admission",
+        "for": "Teacher",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-14",
+        "createdBy": "Admin",
+        "creatorid": 30
+    },
+    {
+        "id": 31,
+        "type": "Other",
+        "for": "Student",
+        "class": 10,
+        "section": "B",
+        "title": "All Students are requested to send their information immediately to the college. Be in time",
+        "createdAt": "2022-02-15",
+        "createdBy": "Admin",
+        "creatorid": 31
+    }
+]

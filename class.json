@@ -1,0 +1,32 @@
+[
+    {
+        "classId": 1,
+        "className": 8,
+        "classCode": "260Id1",
+        "classDescription": "Class Name: 8 and Class Code260Id1"
+    },
+    {
+        "classId": 2,
+        "className": 9,
+        "classCode": "700Id2",
+        "classDescription": "Class Name: 9 and Class Code700Id2"
+    },
+    {
+        "classId": 3,
+        "className": 10,
+        "classCode": "595Id3",
+        "classDescription": "Class Name: 10 and Class Code595Id3"
+    },
+    {
+        "classId": 4,
+        "className": 11,
+        "classCode": "197Id4",
+        "classDescription": "Class Name: 11 and Class Code197Id4"
+    },
+    {
+        "classId": 5,
+        "className": 12,
+        "classCode": "147Id5",
+        "classDescription": "Class Name: 12 and Class Code147Id5"
+    }
+]

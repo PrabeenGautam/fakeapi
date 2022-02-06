@@ -1,0 +1,194 @@
+[
+    {
+        "teacherId": 1,
+        "firstName": "Mishan",
+        "lastName": "Khatri",
+        "gender": "male",
+        "dateOfBirth": "2055-02-06T00:00:00.000Z",
+        "phoneNo": 9857980830,
+        "email": "Mishan709@gmail.com",
+        "address": "Butwal"
+    },
+    {
+        "teacherId": 2,
+        "firstName": "Paras",
+        "lastName": "Panta",
+        "gender": "male",
+        "dateOfBirth": "2058-03-21T00:00:00.000Z",
+        "phoneNo": 9889084519,
+        "email": "Paras826@gmail.com",
+        "address": "Chitwan"
+    },
+    {
+        "teacherId": 3,
+        "firstName": "Kushal",
+        "lastName": "Pangeni",
+        "gender": "male",
+        "dateOfBirth": "2054-01-30T00:00:00.000Z",
+        "phoneNo": 9807269222,
+        "email": "Kushal826@gmail.com",
+        "address": "Lamjung"
+    },
+    {
+        "teacherId": 4,
+        "firstName": "Prabin",
+        "lastName": "Gautam",
+        "gender": "male",
+        "dateOfBirth": "2055-04-12T00:00:00.000Z",
+        "phoneNo": 9830713445,
+        "email": "Prabin139@gmail.com",
+        "address": "Kushma"
+    },
+    {
+        "teacherId": 5,
+        "firstName": "Anjan",
+        "lastName": "Poudel",
+        "gender": "male",
+        "dateOfBirth": "2057-11-11T00:00:00.000Z",
+        "phoneNo": 9843734816,
+        "email": "Anjan450@gmail.com",
+        "address": "Kushma"
+    },
+    {
+        "teacherId": 6,
+        "firstName": "Anup",
+        "lastName": "Adhikari",
+        "gender": "male",
+        "dateOfBirth": "2054-05-31T00:00:00.000Z",
+        "phoneNo": 9856559259,
+        "email": "Anup425@gmail.com",
+        "address": "Lamachaur"
+    },
+    {
+        "teacherId": 7,
+        "firstName": "Anup",
+        "lastName": "Giri",
+        "gender": "male",
+        "dateOfBirth": "2058-01-17T00:00:00.000Z",
+        "phoneNo": 9871668116,
+        "email": "Anup408@gmail.com",
+        "address": "Kathmandu"
+    },
+    {
+        "teacherId": 8,
+        "firstName": "Ashok",
+        "lastName": "Budhathoki",
+        "gender": "male",
+        "dateOfBirth": "2056-02-15T00:00:00.000Z",
+        "phoneNo": 9894616782,
+        "email": "Ashok625@gmail.com",
+        "address": "Kathmandu"
+    },
+    {
+        "teacherId": 9,
+        "firstName": "Bibek",
+        "lastName": "Chalise",
+        "gender": "male",
+        "dateOfBirth": "2056-09-09T00:00:00.000Z",
+        "phoneNo": 9828428363,
+        "email": "Bibek713@gmail.com",
+        "address": "Gaidakot"
+    },
+    {
+        "teacherId": 10,
+        "firstName": "Bibek",
+        "lastName": "Lamichhane",
+        "gender": "male",
+        "dateOfBirth": "2055-05-24T00:00:00.000Z",
+        "phoneNo": 9899403847,
+        "email": "Bibek230@gmail.com",
+        "address": "Kathmandu"
+    },
+    {
+        "teacherId": 11,
+        "firstName": "Bidhya",
+        "lastName": "Poudel",
+        "gender": "female",
+        "dateOfBirth": "2057-08-21T00:00:00.000Z",
+        "phoneNo": 9808511907,
+        "email": "Bidhya846@gmail.com",
+        "address": "Pokhara"
+    },
+    {
+        "teacherId": 12,
+        "firstName": "Bishal",
+        "lastName": "Poudel",
+        "gender": "male",
+        "dateOfBirth": "2055-01-27T00:00:00.000Z",
+        "phoneNo": 9883886779,
+        "email": "Bishal469@gmail.com",
+        "address": "Argakhanchi"
+    },
+    {
+        "teacherId": 13,
+        "firstName": "Bishal",
+        "lastName": "Shrestha",
+        "gender": "male",
+        "dateOfBirth": "2055-10-26T00:00:00.000Z",
+        "phoneNo": 9857991164,
+        "email": "Bishal430@gmail.com",
+        "address": "Lamjung"
+    },
+    {
+        "teacherId": 14,
+        "firstName": "Daya",
+        "middleName": "Raj",
+        "lastName": "Dhungana",
+        "gender": "male",
+        "dateOfBirth": "2054-07-16T00:00:00.000Z",
+        "phoneNo": 9873281920,
+        "email": "Daya795@gmail.com",
+        "address": "Palpa"
+    },
+    {
+        "teacherId": 15,
+        "firstName": "Dhurba",
+        "lastName": "Sharma",
+        "gender": "male",
+        "dateOfBirth": "2057-05-12T00:00:00.000Z",
+        "phoneNo": 9828066753,
+        "email": "Dhurba697@gmail.com",
+        "address": "Pokhara"
+    },
+    {
+        "teacherId": 16,
+        "firstName": "Dhudu",
+        "middleName": "Ram",
+        "lastName": "Thapa",
+        "gender": "male",
+        "dateOfBirth": "2054-12-29T00:00:00.000Z",
+        "phoneNo": 9829926075,
+        "email": "Dhudu254@gmail.com",
+        "address": "Chitwan"
+    },
+    {
+        "teacherId": 17,
+        "firstName": "Dhurba",
+        "lastName": "Baral",
+        "gender": "male",
+        "dateOfBirth": "2057-12-19T00:00:00.000Z",
+        "phoneNo": 9836635206,
+        "email": "Dhurba349@gmail.com",
+        "address": "Butwal"
+    },
+    {
+        "teacherId": 18,
+        "firstName": "Dipendra",
+        "lastName": "Neupane",
+        "gender": "male",
+        "dateOfBirth": "2057-12-31T00:00:00.000Z",
+        "phoneNo": 9823964499,
+        "email": "Dipendra152@gmail.com",
+        "address": "Butwal"
+    },
+    {
+        "teacherId": 19,
+        "firstName": "Eldrin",
+        "lastName": "Gurung",
+        "gender": "male",
+        "dateOfBirth": "2054-05-29T00:00:00.000Z",
+        "phoneNo": 9892985255,
+        "email": "Eldrin728@gmail.com",
+        "address": "Kushma"
+    }
+]
