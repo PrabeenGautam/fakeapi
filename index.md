@@ -4,9 +4,8 @@ Below are the list of fake API for our Class Management System
 ### API INFO
 
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json) <br/>
 
-[Student Parent Info](https://prabeengautam.github.io/fakeapi/studentinfo.json) <br/>
+[Attendance](https://prabeengautam.github.io/fakeapi/attendance.json) <br/>
 
 [Teacher Info](https://prabeengautam.github.io/fakeapi/studentinfo.json) <br/>
 
@@ -14,26 +13,25 @@ Below are the list of fake API for our Class Management System
 
 [assignmentgiven](https://prabeengautam.github.io/fakeapi/assignmentgiven.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[Class](https://prabeengautam.github.io/fakeapi/class.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[Final Mark](https://prabeengautam.github.io/fakeapi/finalMark.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[Internal Reports](https://prabeengautam.github.io/fakeapi/internalreports.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[notes](https://prabeengautam.github.io/fakeapi/notes.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[section](https://prabeengautam.github.io/fakeapi/section.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[Student](https://prabeengautam.github.io/fakeapi/student.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[Student Assignment](https://prabeengautam.github.io/fakeapi/studentassignment.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[Student Info](https://prabeengautam.github.io/fakeapi/studentsinfo.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[Subjects](https://prabeengautam.github.io/fakeapi/subjects.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[Teacher Detail](https://prabeengautam.github.io/fakeapi/teacherdetail.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
+[Timetable](https://prabeengautam.github.io/fakeapi/timetable.json)<br/>
 
-[Student Info](https://prabeengautam.github.io/fakeapi/studentinfo.json)<br/>
