@@ -3,6 +3,14 @@
 
 A brief description of what table look like in project database
 
+### There are repeative class and Section mostly in most table
+We can replace them using the id from section table.
+Section Table Looks Like:
+| id | class Name "OR" Class ID | Section Name |
+|----|--------------------------|--------------|
+|1|Class 12 or ID 1|A|
+|2|Class 12 or ID 1|B|
+
 ## Student Full Details
 #### Divided into 2 Parts
 - StudentDetails
