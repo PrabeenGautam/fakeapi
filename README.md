@@ -98,7 +98,7 @@ Section Table Looks Like:
 |----|---------|-------|---------|---------|---------|---------|-------|
 |1|Mishan Khatri|12|A|DBMS|Prabin Gautam|29|99.9
 
-##Lecture Notes
+## Lecture Notes
 
 | id | class | section | subject | teacher       | description           | file         |
 |----|-------|---------|---------|---------------|-----------------------|--------------|
