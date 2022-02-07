@@ -23,7 +23,7 @@ Below are the list of fake API for our Class Management System
 
 [section](https://prabeengautam.github.io/fakeapi/section.json)<br/>
 
-[Student](https://prabeengautam.github.io/fakeapi/student.json)<br/>
+[Student Parent](https://prabeengautam.github.io/fakeapi/studentparent.json)<br/>
 
 [Student Assignment](https://prabeengautam.github.io/fakeapi/studentassignment.json)<br/>
 
